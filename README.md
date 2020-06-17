@@ -3,8 +3,9 @@
 This is the toy app for Lesson 10 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
 
 ## Zaela's Notes
-Unfortunately I forgot to commit right away after creating this repo.
-I added the floating action button before the initial commit.
+I implemented styling and theme changes, as well as accesibility features.
+
+I found this to be a very useful lesson, especially in regard to accessibility concerns that I would have otherwise been unaware of (such as TalkBack features, contrast levels, and so on)
 
 ## GDG Finder
 
